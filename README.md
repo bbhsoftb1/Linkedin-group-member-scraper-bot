@@ -4,12 +4,11 @@ Linkedin group member scraper
 
 check software on below link
 
-https://1.envato.market/an6XGq
-
+https://bhansalisoft.com/Product/Linkedin-Group-Member-Scraper--Chrome-Extension
             <h4>What is Linkedin Group Member Scraper?</h4>
             <hr class="notop">
             <p>
-                Linkeding Group Member Scraper- Software can Extract Groups based on your keyword from linkedin website and also can extract Group Members from groups
+	    Linkeding Group Member Scraper- Software can Extract Groups based on your keyword from linkedin website and also can extract Group Members from groups
                 <ul>
                     <li>
                         ✅ Software extract Groups based on your keyword from  linkedin website
